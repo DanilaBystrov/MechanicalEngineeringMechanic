@@ -10,7 +10,7 @@ We do not sell, trade or share your personal information with third parties. We 
 <h3>## Your rights</h3>
 You have the right to access, rectify, delete and restrict the processing of your data. You also have the right to object to the processing of your data and have the right to data transfer.
 <h3>## Using location data</h3>
-Mechanical Engineering and Locksmithing may collect and use data about your location. We use this data to provide personalized advertising and improve our services. Your location is determined using a variety of technologies including IP address, GPS and other sensors that may, for example, provide [Your Application Name] with information about nearby devices, Wi-Fi hotspots and cell phone base stations.
+<b>Mechanical Engineering and Locksmithing</b> may collect and use data about your location. We use this data to provide personalized advertising and improve our services. Your location is determined using a variety of technologies including IP address, GPS and other sensors that may, for example, provide [Your Application Name] with information about nearby devices, Wi-Fi hotspots and cell phone base stations.
 You can always disable geolocation services on your device or opt out of personalized ads in the app settings. However, this may affect some features of our app.
 <h3>## Changes to the privacy policy</h3>
 We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
