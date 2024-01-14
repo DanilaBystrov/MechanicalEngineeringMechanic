@@ -1,4 +1,5 @@
 <h3>Privacy Policy for the <b>Mechanical Engineering and Locksmithing application</b></h3>
+<h3>## Introduction</h3>
 At <b>Mechanical Engineering & Locksmithing</b>, we respect your privacy and are committed to protecting your personal data. This privacy policy describes what data we collect, how we use it and how you can manage your information.
 <h3>## Information gathering</h3>
 We collect information you provide to us when you register, such as your name, email address, and contact information. We also collect information about your use of our application, such as device type, operating system version, unique device identifiers, and network information.
